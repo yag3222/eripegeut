@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c036fcc53b42037e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b90933d9c2975ad",
+        "type": "tabs",
+        "dimension": 29.411764705882355,
+        "children": [
+          {
+            "id": "f6ce9a63c8d75b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rpg/corona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "corona"
+            }
+          },
+          {
+            "id": "f39a2eff5edff50d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "rpg/Sem título.canvas",
+                "viewState": {
+                  "x": 37.5,
+                  "y": -10,
+                  "zoom": -1.8042601156347382
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c59f7e793d5c4756",
+        "type": "tabs",
+        "dimension": 70.58823529411765,
+        "children": [
+          {
+            "id": "87bc9d810da21417",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "rpg/Sem título.canvas",
+                "viewState": {
+                  "x": -66,
+                  "y": -36.734375,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71915e173f660bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f951df444d01582c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c65891c3d82ce5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "abe071f3d44f3eab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7dc02cd4447f45c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b148f6a259e8a0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ad576878a3a9dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06d1359e2114ef1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rpg/Sem título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "ccfdb81d5efe6fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rpg/Sem título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "c11867f86f184c72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f9d681b166495c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rpg/Sem título.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "87bc9d810da21417",
+  "lastOpenFiles": [
+    "rpg/corona.md",
+    "rpg/Sem título.canvas",
+    "yag_vertical.png",
+    "rpg",
+    "rpg/virus.md",
+    "Welcome.md"
+  ]
+}
