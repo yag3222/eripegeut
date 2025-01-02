@@ -1,9 +1,32 @@
 {
-	"nodes":[
-		{"id":"e11beebea1994af2","type":"file","file":"rpg/corona.md","x":-130,"y":-320,"width":260,"height":140},
-		{"id":"18a6ff59a037cc4d","type":"text","text":"bkbh","x":-280,"y":-40,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"0d4980581a670514","fromNode":"e11beebea1994af2","fromSide":"bottom","toNode":"18a6ff59a037cc4d","toSide":"top"}
-	]
+  "nodes": [
+    {
+      "id": "e11beebea1994af2",
+      "type": "file",
+      "file": "rpg/corona.md",
+      "x": -130,
+      "y": -320,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "18a6ff59a037cc4d",
+      "type": "text",
+      "text": "bkbh",
+      "x": -280,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "0d4980581a670514",
+      "fromNode": "e11beebea1994af2",
+      "fromSide": "bottom",
+      "toNode": "18a6ff59a037cc4d",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }
