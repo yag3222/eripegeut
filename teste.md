@@ -1,1 +1,1 @@
-esse é um teste que eu fiz para ver ser consigo modificar o valt e fazer com que jose o veja. planejo escrever sobre os reinos, depois sobre os players e depois sobre a sessão.
+esse é um teste que eu fiz para ver ser consigo modificar o vault e fazer com que jose o veja. planejo escrever sobre os reinos, depois sobre os players e depois sobre a sessão. esse teclado é muito bom.
