@@ -1,0 +1,1 @@
+Only Magic é um rpg de mesa criado por José com a ajuda de Kauan, é um mundo de fantasia medieval que mistura vários personagens criados anteriormente por ele que convivem no mesmo mundo.
