@@ -1,5 +1,9 @@
 [
   "OA-file-hider",
-  "persistent-graph",
-  "advanced-canvas"
+  "advanced-canvas",
+  "custom-node-size",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "persistent-graph"
 ]

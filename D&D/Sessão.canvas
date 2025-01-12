@@ -1,193 +1,193 @@
 {
-	"nodes":[
-		{
-			"id":"25adf338a67cc5ea",
-			"type":"file",
-			"file":"Pericias.png",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":-15,
-			"width":268,
-			"height":320
-		},
-		{
-			"id":"3406fe3e9ee121f0",
-			"type":"file",
-			"file":"batalha.png",
-			"styleAttributes":{},
-			"x":-820,
-			"y":-30,
-			"width":388,
-			"height":335
-		},
-		{
-			"id":"fa574fc777158234",
-			"type":"text",
-			"text":"No Monasterio",
-			"styleAttributes":{},
-			"x":-1080,
-			"y":-500,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3773aa68f2cc1ded",
-			"type":"text",
-			"text":"floresta densa",
-			"styleAttributes":{},
-			"x":-420,
-			"y":-500,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"663e42e4e54918b3",
-			"type":"text",
-			"text":"celestia = cidade dos nobres",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-520,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"b0f44c2c2947ec4e",
-			"type":"text",
-			"text":"usar magia de ilusão para fugir do dragão ",
-			"styleAttributes":{},
-			"x":-760,
-			"y":-515,
-			"width":260,
-			"height":90
-		},
-		{
-			"id":"63626b2b85c9620b",
-			"type":"text",
-			"text":"se caso eles não conseguirem ir de maneira furtiva ate celestia o dragão ira ataca-los",
-			"styleAttributes":{},
-			"x":-340,
-			"y":-740,
-			"width":260,
-			"height":160
-		},
-		{
-			"id":"5ff3916169f83112",
-			"type":"text",
-			"text":"solaria",
-			"styleAttributes":{},
-			"x":-1080,
-			"y":-610,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"767991d7d01d1570",
-			"type":"file",
-			"file":"cd.png",
-			"styleAttributes":{},
-			"x":-386,
-			"y":10,
-			"width":352,
-			"height":140
-		},
-		{
-			"id":"3b33ecb121444f6a",
-			"type":"text",
-			"text":"Nevoa = fumaça dos restos dos cidadão dissolvidos",
-			"styleAttributes":{},
-			"x":-1080,
-			"y":-340,
-			"width":260,
-			"height":140
-		},
-		{
-			"id":"942b50e789c3bf23",
-			"type":"text",
-			"text":"HP: 104",
-			"styleAttributes":{},
-			"x":0,
-			"y":-340,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1844e2e4f9bf1a31",
-			"type":"text",
-			"text":"uma tropa do reino de firecrown buscando por fugitivos do ataque",
-			"styleAttributes":{},
-			"x":-420,
-			"y":-340,
-			"width":260,
-			"height":160
-		},
-		{
-			"id":"484c2a0f5b8b3d23",
-			"type":"text",
-			"text":"1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
-			"styleAttributes":{},
-			"x":60,
-			"y":-180,
-			"width":260,
-			"height":140
-		}
-	],
-	"edges":[
-		{
-			"id":"977694f37cbf0fce",
-			"styleAttributes":{},
-			"fromNode":"fa574fc777158234",
-			"fromSide":"bottom",
-			"toNode":"3b33ecb121444f6a",
-			"toSide":"top"
-		},
-		{
-			"id":"2bac0db8cb65f7d6",
-			"styleAttributes":{},
-			"fromNode":"fa574fc777158234",
-			"fromSide":"right",
-			"toNode":"b0f44c2c2947ec4e",
-			"toSide":"left"
-		},
-		{
-			"id":"b983764c63940e80",
-			"styleAttributes":{},
-			"fromNode":"b0f44c2c2947ec4e",
-			"fromSide":"right",
-			"toNode":"3773aa68f2cc1ded",
-			"toSide":"left"
-		},
-		{
-			"id":"8c5743181e322470",
-			"styleAttributes":{},
-			"fromNode":"1844e2e4f9bf1a31",
-			"fromSide":"top",
-			"toNode":"3773aa68f2cc1ded",
-			"toSide":"bottom"
-		},
-		{
-			"id":"8af7e763010fd858",
-			"styleAttributes":{},
-			"fromNode":"3773aa68f2cc1ded",
-			"fromSide":"right",
-			"toNode":"663e42e4e54918b3",
-			"toSide":"left"
-		},
-		{
-			"id":"7fce73fefa2568d4",
-			"styleAttributes":{},
-			"fromNode":"63626b2b85c9620b",
-			"fromSide":"bottom",
-			"toNode":"3773aa68f2cc1ded",
-			"toSide":"top"
-		},
-		{
-			"id":"d1504fc1852469b2",
-			"styleAttributes":{},
-			"fromNode":"5ff3916169f83112",
-			"fromSide":"bottom",
-			"toNode":"fa574fc777158234",
-			"toSide":"top"
-		}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "25adf338a67cc5ea",
+      "type": "file",
+      "file": "Pericias.png",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": -15,
+      "width": 268,
+      "height": 320
+    },
+    {
+      "id": "3406fe3e9ee121f0",
+      "type": "file",
+      "file": "batalha.png",
+      "styleAttributes": {},
+      "x": -820,
+      "y": -30,
+      "width": 388,
+      "height": 335
+    },
+    {
+      "id": "fa574fc777158234",
+      "type": "text",
+      "text": "No Monasterio",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3773aa68f2cc1ded",
+      "type": "text",
+      "text": "floresta densa",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "663e42e4e54918b3",
+      "type": "text",
+      "text": "celestia = cidade dos nobres",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -520,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "b0f44c2c2947ec4e",
+      "type": "text",
+      "text": "usar magia de ilusão para fugir do dragão ",
+      "styleAttributes": {},
+      "x": -760,
+      "y": -515,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "63626b2b85c9620b",
+      "type": "text",
+      "text": "se caso eles não conseguirem ir de maneira furtiva ate celestia o dragão ira ataca-los",
+      "styleAttributes": {},
+      "x": -340,
+      "y": -740,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "5ff3916169f83112",
+      "type": "text",
+      "text": "solaria",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -610,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "767991d7d01d1570",
+      "type": "file",
+      "file": "cd.png",
+      "styleAttributes": {},
+      "x": -386,
+      "y": 10,
+      "width": 352,
+      "height": 140
+    },
+    {
+      "id": "3b33ecb121444f6a",
+      "type": "text",
+      "text": "Nevoa = fumaça dos restos dos cidadão dissolvidos",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -340,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "942b50e789c3bf23",
+      "type": "text",
+      "text": "HP: 104",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1844e2e4f9bf1a31",
+      "type": "text",
+      "text": "uma tropa do reino de firecrown buscando por fugitivos do ataque",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -340,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "484c2a0f5b8b3d23",
+      "type": "text",
+      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -180,
+      "width": 260,
+      "height": 140
+    }
+  ],
+  "edges": [
+    {
+      "id": "977694f37cbf0fce",
+      "styleAttributes": {},
+      "fromNode": "fa574fc777158234",
+      "fromSide": "bottom",
+      "toNode": "3b33ecb121444f6a",
+      "toSide": "top"
+    },
+    {
+      "id": "2bac0db8cb65f7d6",
+      "styleAttributes": {},
+      "fromNode": "fa574fc777158234",
+      "fromSide": "right",
+      "toNode": "b0f44c2c2947ec4e",
+      "toSide": "left"
+    },
+    {
+      "id": "b983764c63940e80",
+      "styleAttributes": {},
+      "fromNode": "b0f44c2c2947ec4e",
+      "fromSide": "right",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "left"
+    },
+    {
+      "id": "8c5743181e322470",
+      "styleAttributes": {},
+      "fromNode": "1844e2e4f9bf1a31",
+      "fromSide": "top",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8af7e763010fd858",
+      "styleAttributes": {},
+      "fromNode": "3773aa68f2cc1ded",
+      "fromSide": "right",
+      "toNode": "663e42e4e54918b3",
+      "toSide": "left"
+    },
+    {
+      "id": "7fce73fefa2568d4",
+      "styleAttributes": {},
+      "fromNode": "63626b2b85c9620b",
+      "fromSide": "bottom",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "top"
+    },
+    {
+      "id": "d1504fc1852469b2",
+      "styleAttributes": {},
+      "fromNode": "5ff3916169f83112",
+      "fromSide": "bottom",
+      "toNode": "fa574fc777158234",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }
