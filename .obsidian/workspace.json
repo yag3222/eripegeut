@@ -11,17 +11,14 @@
             "id": "f39a2eff5edff50d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D&D/Sessão.canvas",
-                "viewState": {
-                  "x": -410,
-                  "y": -217.5,
-                  "zoom": -1.4180349968061292
-                }
+                "file": "D&D/Only Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sessão"
+              "icon": "lucide-file",
+              "title": "Only Magic"
             }
           }
         ]
@@ -168,14 +165,16 @@
   },
   "active": "f39a2eff5edff50d",
   "lastOpenFiles": [
+    "D&D/Sessão 1.canvas",
+    "Aparição.png",
+    "zumbi.png",
+    "batalha.png",
+    "Pericias.png",
+    "cd.png",
     "D&D/Only Magic.md",
-    "D&D/Sessão.canvas",
     "teste.md",
     "rpg/Sem título.canvas",
     "rpg",
-    "Pericias.png",
-    "cd.png",
-    "batalha.png",
     "D&D/d&d 5e.md",
     "rpg/corona.md",
     "yag_vertical.png",

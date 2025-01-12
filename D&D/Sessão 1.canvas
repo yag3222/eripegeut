@@ -1,0 +1,506 @@
+{
+  "nodes": [
+    {
+      "id": "1181e62422f69c1d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1520,
+      "y": -100,
+      "width": 1340,
+      "height": 1125,
+      "label": "dungeon. andar 1"
+    },
+    {
+      "id": "3bb9d344e79a8a40",
+      "type": "group",
+      "x": 60,
+      "y": 60,
+      "width": 604,
+      "height": 965,
+      "label": "andar 2"
+    },
+    {
+      "id": "fa574fc777158234",
+      "type": "text",
+      "text": "No Monasterio",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3773aa68f2cc1ded",
+      "type": "text",
+      "text": "floresta densa",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b0f44c2c2947ec4e",
+      "type": "text",
+      "text": "usar magia de ilusão para fugir do dragão ",
+      "styleAttributes": {},
+      "x": -760,
+      "y": -515,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "5ff3916169f83112",
+      "type": "text",
+      "text": "solaria",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -610,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3b33ecb121444f6a",
+      "type": "text",
+      "text": "Nevoa = fumaça dos restos dos cidadão dissolvidos",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -340,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "1844e2e4f9bf1a31",
+      "type": "text",
+      "text": "uma tropa do reino de firecrown buscando por fugitivos do ataque",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -340,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "63626b2b85c9620b",
+      "type": "text",
+      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -107,
+      "width": 270,
+      "height": 110
+    },
+    {
+      "id": "942b50e789c3bf23",
+      "type": "text",
+      "text": "HP: 104",
+      "styleAttributes": {},
+      "x": -5,
+      "y": -330,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "946c45d400c5fae4",
+      "type": "text",
+      "text": "4",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 285,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "415f02b233bb40d5",
+      "type": "text",
+      "text": "6",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 485,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "5412e37c74c915c7",
+      "type": "text",
+      "text": "Essa dungeon era uma igreja de uma antiga nação já esquecida. \n- 1: a sala aonde os players vão cair ao sobreviver ao ataque do dragão.\n- 2: um longo corredor com uma aparência muito antiga.\n- 3: estatua com os dois braços faltando. os players tem que coletar os dois braços para abrir uma passagem ate um andar escondido.\n- 4: uma sala cheia de estatuas de deuses antigos. um lugar para as pessoas orarem.\n- 5: a localização do braço direito com uma balança na mão. dois cachorros zumbis protegem a mão. escrituras no chão em alguma língua antiga(O braço da deusa do equilíbrio responsável pelo balanço dos mundos).\n- 6: Aonde o braço esquerdo segurando uma esfera com desenhos de olhos  estranhos a encarando no chão.\n- 7: uma sala com vários baús vazios, em um deles possui um pergaminho com desenhos da estatua(deusa) e um texto em uma linguá antiga esquecida.",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": 339,
+      "width": 540,
+      "height": 652
+    },
+    {
+      "id": "7b675e423901359f",
+      "type": "file",
+      "file": "zumbi.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -87,
+      "width": 352,
+      "height": 420
+    },
+    {
+      "id": "c9d4354490415df8",
+      "type": "text",
+      "text": "Localização do braço direito + cachorros zumbis",
+      "styleAttributes": {},
+      "x": -970,
+      "y": -27,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "62fb332009127a2d",
+      "type": "text",
+      "text": "Localização do braço esquerdo + um morto-vivo o guardando",
+      "styleAttributes": {},
+      "x": -970,
+      "y": 103,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "20703afd3e638bd1",
+      "type": "text",
+      "text": "1 ",
+      "styleAttributes": {},
+      "x": -630,
+      "y": 665,
+      "width": 120,
+      "height": 100
+    },
+    {
+      "id": "b1bd27c0bd7fa6c4",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": -605,
+      "y": 205,
+      "width": 70,
+      "height": 440
+    },
+    {
+      "id": "60c63e6e3c7497f7",
+      "type": "text",
+      "text": "3",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 123,
+      "width": 60,
+      "height": 65
+    },
+    {
+      "id": "6910af785c957b4a",
+      "type": "text",
+      "text": "5",
+      "styleAttributes": {},
+      "x": -510,
+      "y": 285,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "dde516802e878932",
+      "type": "text",
+      "text": "7",
+      "styleAttributes": {},
+      "x": -510,
+      "y": 485,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "5ab87e61dcec677b",
+      "type": "text",
+      "text": "2 andar",
+      "styleAttributes": {},
+      "x": -350,
+      "y": 123,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "25adf338a67cc5ea",
+      "type": "file",
+      "file": "Pericias.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -835,
+      "width": 268,
+      "height": 320
+    },
+    {
+      "id": "767991d7d01d1570",
+      "type": "file",
+      "file": "cd.png",
+      "styleAttributes": {},
+      "x": -1192,
+      "y": -780,
+      "width": 352,
+      "height": 140
+    },
+    {
+      "id": "3406fe3e9ee121f0",
+      "type": "file",
+      "file": "batalha.png",
+      "styleAttributes": {},
+      "x": -1504,
+      "y": -495,
+      "width": 388,
+      "height": 335
+    },
+    {
+      "id": "484c2a0f5b8b3d23",
+      "type": "text",
+      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
+      "styleAttributes": {},
+      "x": -110,
+      "y": -495,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "663e42e4e54918b3",
+      "type": "text",
+      "text": "celestia = cidade dos nobres",
+      "styleAttributes": {},
+      "x": 380,
+      "y": -160,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "30b244b4a3251a3a",
+      "type": "text",
+      "text": "Um fantasma de um soldado que fala em uma língua estranha",
+      "styleAttributes": {},
+      "x": 75,
+      "y": 911,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "1fde5747fb7e5f4c",
+      "type": "file",
+      "file": "Aparição.png",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 466,
+      "width": 209,
+      "height": 399
+    },
+    {
+      "id": "e23fab72e6367906",
+      "type": "text",
+      "text": "Esse andar é um necrotério(cemitério?) antigo que guarda varias passagens secretas.\n- 1: uma area cavernosa com vários túmulos improvisados aonde os players lutaram contra a aparição nessa sala possui um cadaver recente com um mapa com todos os continentes marcado com símbolos de espirais em vários deles, luna é marcada com um X com os dizeres \"fim do mundo\".\n - 2: escadas para sair da dungeon.",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 85,
+      "width": 520,
+      "height": 315
+    },
+    {
+      "id": "ba95f3617d065970",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": 475,
+      "y": 425,
+      "width": 60,
+      "height": 185
+    },
+    {
+      "id": "e8269f9efbdda7e1",
+      "type": "text",
+      "text": "1",
+      "styleAttributes": {},
+      "x": 420,
+      "y": 655,
+      "width": 170,
+      "height": 220
+    },
+    {
+      "id": "52a06c26d572319a",
+      "type": "text",
+      "text": "andar 1.",
+      "styleAttributes": {},
+      "x": 485,
+      "y": 951,
+      "width": 160,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "977694f37cbf0fce",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fa574fc777158234",
+      "fromSide": "bottom",
+      "toNode": "3b33ecb121444f6a",
+      "toSide": "top"
+    },
+    {
+      "id": "2bac0db8cb65f7d6",
+      "styleAttributes": {},
+      "fromNode": "fa574fc777158234",
+      "fromSide": "right",
+      "toNode": "b0f44c2c2947ec4e",
+      "toSide": "left"
+    },
+    {
+      "id": "b983764c63940e80",
+      "styleAttributes": {},
+      "fromNode": "b0f44c2c2947ec4e",
+      "fromSide": "right",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "left"
+    },
+    {
+      "id": "8c5743181e322470",
+      "styleAttributes": {},
+      "fromNode": "1844e2e4f9bf1a31",
+      "fromSide": "top",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d1504fc1852469b2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5ff3916169f83112",
+      "fromSide": "bottom",
+      "toNode": "fa574fc777158234",
+      "toSide": "top"
+    },
+    {
+      "id": "0ba90a51e761f1a3",
+      "styleAttributes": {},
+      "fromNode": "1844e2e4f9bf1a31",
+      "fromSide": "right",
+      "toNode": "63626b2b85c9620b",
+      "toSide": "top"
+    },
+    {
+      "id": "3eb10670f00810fb",
+      "styleAttributes": {},
+      "fromNode": "63626b2b85c9620b",
+      "fromSide": "bottom",
+      "toNode": "1181e62422f69c1d",
+      "toSide": "right"
+    },
+    {
+      "id": "fe630e0b6e513486",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1844e2e4f9bf1a31",
+      "fromSide": "right",
+      "toNode": "942b50e789c3bf23",
+      "toSide": "left"
+    },
+    {
+      "id": "e131c0ef15976817",
+      "styleAttributes": {},
+      "fromNode": "60c63e6e3c7497f7",
+      "fromSide": "right",
+      "toNode": "5ab87e61dcec677b",
+      "toSide": "left"
+    },
+    {
+      "id": "2b87199264eed740",
+      "styleAttributes": {},
+      "fromNode": "c9d4354490415df8",
+      "fromSide": "right",
+      "toNode": "6910af785c957b4a",
+      "toSide": "top"
+    },
+    {
+      "id": "82398c2454299342",
+      "styleAttributes": {},
+      "fromNode": "62fb332009127a2d",
+      "fromSide": "bottom",
+      "toNode": "415f02b233bb40d5",
+      "toSide": "left"
+    },
+    {
+      "id": "0fc0be007010822c",
+      "styleAttributes": {},
+      "fromNode": "7b675e423901359f",
+      "fromSide": "right",
+      "toNode": "62fb332009127a2d",
+      "toSide": "left"
+    },
+    {
+      "id": "2e6ade9947f559ac",
+      "styleAttributes": {},
+      "fromNode": "7b675e423901359f",
+      "fromSide": "right",
+      "toNode": "c9d4354490415df8",
+      "toSide": "left"
+    },
+    {
+      "id": "730955c55471b366",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1181e62422f69c1d",
+      "fromSide": "right",
+      "toNode": "3bb9d344e79a8a40",
+      "toSide": "left"
+    },
+    {
+      "id": "3c5ba0f39ce92189",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "484c2a0f5b8b3d23",
+      "fromSide": "left",
+      "toNode": "3773aa68f2cc1ded",
+      "toSide": "right"
+    },
+    {
+      "id": "88b531250953271c",
+      "styleAttributes": {},
+      "fromNode": "3bb9d344e79a8a40",
+      "fromSide": "right",
+      "toNode": "663e42e4e54918b3",
+      "toSide": "right"
+    },
+    {
+      "id": "a680ea074c8d626e",
+      "styleAttributes": {},
+      "fromNode": "52a06c26d572319a",
+      "fromSide": "left",
+      "toNode": "e8269f9efbdda7e1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7afc38d0d96a9381",
+      "styleAttributes": {},
+      "fromNode": "e8269f9efbdda7e1",
+      "fromSide": "top",
+      "toNode": "ba95f3617d065970",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e60a3f046a458b10",
+      "styleAttributes": {},
+      "fromNode": "30b244b4a3251a3a",
+      "fromSide": "right",
+      "toNode": "e8269f9efbdda7e1",
+      "toSide": "left"
+    },
+    {
+      "id": "c19ced8aa59f8bf3",
+      "styleAttributes": {},
+      "fromNode": "1fde5747fb7e5f4c",
+      "fromSide": "bottom",
+      "toNode": "30b244b4a3251a3a",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
