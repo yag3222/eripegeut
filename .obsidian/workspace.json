@@ -16,7 +16,7 @@
                 "file": "D&D/Sessão.canvas",
                 "viewState": {
                   "x": -410,
-                  "y": -217.49999999999994,
+                  "y": -217.5,
                   "zoom": -1.4180349968061292
                 }
               },
@@ -166,15 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2c65891c3d82ce5",
+  "active": "f39a2eff5edff50d",
   "lastOpenFiles": [
+    "D&D/Only Magic.md",
+    "D&D/Sessão.canvas",
     "teste.md",
     "rpg/Sem título.canvas",
     "rpg",
     "Pericias.png",
     "cd.png",
     "batalha.png",
-    "D&D/Only Magic.md",
     "D&D/d&d 5e.md",
     "rpg/corona.md",
     "yag_vertical.png",

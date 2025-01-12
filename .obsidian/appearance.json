@@ -1,3 +1,5 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Pink Topaz",
+  "accentColor": "#f55cb5"
 }
