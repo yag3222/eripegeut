@@ -151,26 +151,6 @@
       "height": 60
     },
     {
-      "id": "946c45d400c5fae4",
-      "type": "text",
-      "text": "4",
-      "styleAttributes": {},
-      "x": -800,
-      "y": 285,
-      "width": 160,
-      "height": 160
-    },
-    {
-      "id": "415f02b233bb40d5",
-      "type": "text",
-      "text": "6",
-      "styleAttributes": {},
-      "x": -800,
-      "y": 485,
-      "width": 160,
-      "height": 160
-    },
-    {
       "id": "62fb332009127a2d",
       "type": "text",
       "text": "Localização do braço esquerdo + um morto-vivo o guardando",
@@ -189,36 +169,6 @@
       "y": -495,
       "width": 260,
       "height": 140
-    },
-    {
-      "id": "20703afd3e638bd1",
-      "type": "text",
-      "text": "1 ",
-      "styleAttributes": {},
-      "x": -630,
-      "y": 665,
-      "width": 120,
-      "height": 100
-    },
-    {
-      "id": "5ab87e61dcec677b",
-      "type": "text",
-      "text": "2 andar",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 123,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "63626b2b85c9620b",
-      "type": "text",
-      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -107,
-      "width": 270,
-      "height": 110
     },
     {
       "id": "b1bd27c0bd7fa6c4",
@@ -261,6 +211,56 @@
       "height": 160
     },
     {
+      "id": "946c45d400c5fae4",
+      "type": "text",
+      "text": "4",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 285,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "415f02b233bb40d5",
+      "type": "text",
+      "text": "6",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 485,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "20703afd3e638bd1",
+      "type": "text",
+      "text": "1 ",
+      "styleAttributes": {},
+      "x": -630,
+      "y": 665,
+      "width": 120,
+      "height": 100
+    },
+    {
+      "id": "5ab87e61dcec677b",
+      "type": "text",
+      "text": "2 andar",
+      "styleAttributes": {},
+      "x": -350,
+      "y": 123,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "63626b2b85c9620b",
+      "type": "text",
+      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -107,
+      "width": 270,
+      "height": 110
+    },
+    {
       "id": "663e42e4e54918b3",
       "type": "text",
       "text": "celestia = cidade dos nobres",
@@ -291,16 +291,6 @@
       "height": 220
     },
     {
-      "id": "ba95f3617d065970",
-      "type": "text",
-      "text": "2",
-      "styleAttributes": {},
-      "x": 495,
-      "y": 445,
-      "width": 60,
-      "height": 185
-    },
-    {
       "id": "30b244b4a3251a3a",
       "type": "text",
       "text": "Um fantasma de um soldado que fala em uma língua estranha",
@@ -309,6 +299,16 @@
       "y": 931,
       "width": 260,
       "height": 80
+    },
+    {
+      "id": "ba95f3617d065970",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": 495,
+      "y": 445,
+      "width": 60,
+      "height": 185
     },
     {
       "id": "52a06c26d572319a",
