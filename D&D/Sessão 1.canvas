@@ -13,8 +13,9 @@
     {
       "id": "3bb9d344e79a8a40",
       "type": "group",
-      "x": 60,
-      "y": 60,
+      "styleAttributes": {},
+      "x": 80,
+      "y": 80,
       "width": 604,
       "height": 965,
       "label": "andar 2"
@@ -28,26 +29,6 @@
       "y": -500,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "3773aa68f2cc1ded",
-      "type": "text",
-      "text": "floresta densa",
-      "styleAttributes": {},
-      "x": -420,
-      "y": -500,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b0f44c2c2947ec4e",
-      "type": "text",
-      "text": "usar magia de ilusão para fugir do dragão ",
-      "styleAttributes": {},
-      "x": -760,
-      "y": -515,
-      "width": 260,
-      "height": 90
     },
     {
       "id": "5ff3916169f83112",
@@ -70,6 +51,86 @@
       "height": 140
     },
     {
+      "id": "5412e37c74c915c7",
+      "type": "text",
+      "text": "Essa dungeon era uma igreja de uma antiga nação já esquecida. \n- 1: a sala aonde os players vão cair ao sobreviver ao ataque do dragão.\n- 2: um longo corredor com uma aparência muito antiga.\n- 3: estatua com os dois braços faltando. os players tem que coletar os dois braços para abrir uma passagem ate um andar escondido.\n- 4: uma sala cheia de estatuas de deuses antigos. um lugar para as pessoas orarem.\n- 5: a localização do braço direito com uma balança na mão. dois cachorros zumbis protegem a mão. escrituras no chão em alguma língua antiga(O braço da deusa do equilíbrio responsável pelo balanço dos mundos).\n- 6: Aonde o braço esquerdo segurando uma esfera com desenhos de olhos  estranhos a encarando no chão.\n- 7: uma sala com vários baús vazios, em um deles possui um pergaminho com desenhos da estatua(deusa) e um texto em uma linguá antiga esquecida.",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": 339,
+      "width": 540,
+      "height": 652
+    },
+    {
+      "id": "7b675e423901359f",
+      "type": "file",
+      "file": "zumbi.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -87,
+      "width": 352,
+      "height": 420
+    },
+    {
+      "id": "25adf338a67cc5ea",
+      "type": "file",
+      "file": "Pericias.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -835,
+      "width": 268,
+      "height": 320
+    },
+    {
+      "id": "767991d7d01d1570",
+      "type": "file",
+      "file": "cd.png",
+      "styleAttributes": {},
+      "x": -1192,
+      "y": -780,
+      "width": 352,
+      "height": 140
+    },
+    {
+      "id": "c9d4354490415df8",
+      "type": "text",
+      "text": "Localização do braço direito + cachorros zumbis",
+      "styleAttributes": {},
+      "x": -970,
+      "y": -27,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "3406fe3e9ee121f0",
+      "type": "file",
+      "file": "batalha.png",
+      "styleAttributes": {},
+      "x": -1504,
+      "y": -495,
+      "width": 388,
+      "height": 335
+    },
+    {
+      "id": "3773aa68f2cc1ded",
+      "type": "text",
+      "text": "floresta densa",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b0f44c2c2947ec4e",
+      "type": "text",
+      "text": "usar magia de ilusão para fugir do dragão ",
+      "styleAttributes": {},
+      "x": -760,
+      "y": -515,
+      "width": 260,
+      "height": 90
+    },
+    {
       "id": "1844e2e4f9bf1a31",
       "type": "text",
       "text": "uma tropa do reino de firecrown buscando por fugitivos do ataque",
@@ -78,16 +139,6 @@
       "y": -340,
       "width": 260,
       "height": 160
-    },
-    {
-      "id": "63626b2b85c9620b",
-      "type": "text",
-      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -107,
-      "width": 270,
-      "height": 110
     },
     {
       "id": "942b50e789c3bf23",
@@ -120,36 +171,6 @@
       "height": 160
     },
     {
-      "id": "5412e37c74c915c7",
-      "type": "text",
-      "text": "Essa dungeon era uma igreja de uma antiga nação já esquecida. \n- 1: a sala aonde os players vão cair ao sobreviver ao ataque do dragão.\n- 2: um longo corredor com uma aparência muito antiga.\n- 3: estatua com os dois braços faltando. os players tem que coletar os dois braços para abrir uma passagem ate um andar escondido.\n- 4: uma sala cheia de estatuas de deuses antigos. um lugar para as pessoas orarem.\n- 5: a localização do braço direito com uma balança na mão. dois cachorros zumbis protegem a mão. escrituras no chão em alguma língua antiga(O braço da deusa do equilíbrio responsável pelo balanço dos mundos).\n- 6: Aonde o braço esquerdo segurando uma esfera com desenhos de olhos  estranhos a encarando no chão.\n- 7: uma sala com vários baús vazios, em um deles possui um pergaminho com desenhos da estatua(deusa) e um texto em uma linguá antiga esquecida.",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": 339,
-      "width": 540,
-      "height": 652
-    },
-    {
-      "id": "7b675e423901359f",
-      "type": "file",
-      "file": "zumbi.png",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": -87,
-      "width": 352,
-      "height": 420
-    },
-    {
-      "id": "c9d4354490415df8",
-      "type": "text",
-      "text": "Localização do braço direito + cachorros zumbis",
-      "styleAttributes": {},
-      "x": -970,
-      "y": -27,
-      "width": 260,
-      "height": 90
-    },
-    {
       "id": "62fb332009127a2d",
       "type": "text",
       "text": "Localização do braço esquerdo + um morto-vivo o guardando",
@@ -160,6 +181,16 @@
       "height": 100
     },
     {
+      "id": "484c2a0f5b8b3d23",
+      "type": "text",
+      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
+      "styleAttributes": {},
+      "x": -110,
+      "y": -495,
+      "width": 260,
+      "height": 140
+    },
+    {
       "id": "20703afd3e638bd1",
       "type": "text",
       "text": "1 ",
@@ -168,6 +199,26 @@
       "y": 665,
       "width": 120,
       "height": 100
+    },
+    {
+      "id": "5ab87e61dcec677b",
+      "type": "text",
+      "text": "2 andar",
+      "styleAttributes": {},
+      "x": -350,
+      "y": 123,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "63626b2b85c9620b",
+      "type": "text",
+      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -107,
+      "width": 270,
+      "height": 110
     },
     {
       "id": "b1bd27c0bd7fa6c4",
@@ -210,124 +261,74 @@
       "height": 160
     },
     {
-      "id": "5ab87e61dcec677b",
-      "type": "text",
-      "text": "2 andar",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 123,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "25adf338a67cc5ea",
-      "type": "file",
-      "file": "Pericias.png",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": -835,
-      "width": 268,
-      "height": 320
-    },
-    {
-      "id": "767991d7d01d1570",
-      "type": "file",
-      "file": "cd.png",
-      "styleAttributes": {},
-      "x": -1192,
-      "y": -780,
-      "width": 352,
-      "height": 140
-    },
-    {
-      "id": "3406fe3e9ee121f0",
-      "type": "file",
-      "file": "batalha.png",
-      "styleAttributes": {},
-      "x": -1504,
-      "y": -495,
-      "width": 388,
-      "height": 335
-    },
-    {
-      "id": "484c2a0f5b8b3d23",
-      "type": "text",
-      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
-      "styleAttributes": {},
-      "x": -110,
-      "y": -495,
-      "width": 260,
-      "height": 140
-    },
-    {
       "id": "663e42e4e54918b3",
       "type": "text",
       "text": "celestia = cidade dos nobres",
       "styleAttributes": {},
-      "x": 380,
-      "y": -160,
+      "x": 355,
+      "y": -107,
       "width": 260,
       "height": 100
-    },
-    {
-      "id": "30b244b4a3251a3a",
-      "type": "text",
-      "text": "Um fantasma de um soldado que fala em uma língua estranha",
-      "styleAttributes": {},
-      "x": 75,
-      "y": 911,
-      "width": 260,
-      "height": 80
-    },
-    {
-      "id": "1fde5747fb7e5f4c",
-      "type": "file",
-      "file": "Aparição.png",
-      "styleAttributes": {},
-      "x": 100,
-      "y": 466,
-      "width": 209,
-      "height": 399
     },
     {
       "id": "e23fab72e6367906",
       "type": "text",
       "text": "Esse andar é um necrotério(cemitério?) antigo que guarda varias passagens secretas.\n- 1: uma area cavernosa com vários túmulos improvisados aonde os players lutaram contra a aparição nessa sala possui um cadaver recente com um mapa com todos os continentes marcado com símbolos de espirais em vários deles, luna é marcada com um X com os dizeres \"fim do mundo\".\n - 2: escadas para sair da dungeon.",
       "styleAttributes": {},
-      "x": 100,
-      "y": 85,
+      "x": 120,
+      "y": 105,
       "width": 520,
       "height": 315
-    },
-    {
-      "id": "ba95f3617d065970",
-      "type": "text",
-      "text": "2",
-      "styleAttributes": {},
-      "x": 475,
-      "y": 425,
-      "width": 60,
-      "height": 185
     },
     {
       "id": "e8269f9efbdda7e1",
       "type": "text",
       "text": "1",
       "styleAttributes": {},
-      "x": 420,
-      "y": 655,
+      "x": 440,
+      "y": 675,
       "width": 170,
       "height": 220
+    },
+    {
+      "id": "ba95f3617d065970",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": 495,
+      "y": 445,
+      "width": 60,
+      "height": 185
+    },
+    {
+      "id": "30b244b4a3251a3a",
+      "type": "text",
+      "text": "Um fantasma de um soldado que fala em uma língua estranha",
+      "styleAttributes": {},
+      "x": 95,
+      "y": 931,
+      "width": 260,
+      "height": 80
     },
     {
       "id": "52a06c26d572319a",
       "type": "text",
       "text": "andar 1.",
       "styleAttributes": {},
-      "x": 485,
-      "y": 951,
+      "x": 505,
+      "y": 971,
       "width": 160,
       "height": 60
+    },
+    {
+      "id": "1fde5747fb7e5f4c",
+      "type": "file",
+      "file": "Aparição.png",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 486,
+      "width": 209,
+      "height": 399
     }
   ],
   "edges": [
