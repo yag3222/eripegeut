@@ -1,0 +1,195 @@
+{
+  "nodes": [
+    {
+      "id": "b726c4f28754e282",
+      "type": "text",
+      "text": "redondezas de Soleil",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": -440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "55653d91d71e74e8",
+      "type": "text",
+      "text": "players",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": -320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "559c578d033a22e0",
+      "type": "text",
+      "text": "O dragão foi embora ao amanhecer",
+      "styleAttributes": {},
+      "x": -1280,
+      "y": -540,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "4c84de063689e7c6",
+      "type": "text",
+      "text": "briga com os macacos",
+      "styleAttributes": {},
+      "x": -740,
+      "y": -440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ad8c2f4b666aabfb",
+      "type": "text",
+      "text": "organizar comida, agua e os civis restantes.",
+      "styleAttributes": {},
+      "x": -740,
+      "y": -570,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8c9a3a9eed9d7649",
+      "type": "text",
+      "text": "a dungeon possui alguma propriedade magica que altera o espaço fazendo com que os players apareçam perto de uma pequena vila litorânea portuaria assolada por firecrown ",
+      "styleAttributes": {},
+      "x": -390,
+      "y": -485,
+      "width": 300,
+      "height": 225
+    },
+    {
+      "id": "b81d53749933aa03",
+      "type": "text",
+      "text": "cheia de guardas",
+      "styleAttributes": {},
+      "x": -740,
+      "y": -320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "33c0b22785800991",
+      "type": "text",
+      "text": "ser atacado por mais cavaleiros de firecrow",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -95,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "453060049bc98817",
+      "type": "text",
+      "text": "podem roubar um navio veleiro de guerra de firecrown(melhor caminho para os feridos) para ir em direção a celestia",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -155,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "2c727bfce58917e0",
+      "type": "text",
+      "text": "chegar em celestia(fim da sessão)",
+      "styleAttributes": {},
+      "x": 10,
+      "y": -260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "990427c00c28b6a0",
+      "type": "text",
+      "text": ". Britney\n. Moon\n. firecrown\n. jose\n. daemon\n. youseff",
+      "styleAttributes": {},
+      "x": -930,
+      "y": -260,
+      "width": 160,
+      "height": 185
+    }
+  ],
+  "edges": [
+    {
+      "id": "9e6cfea43e57ee62",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "55653d91d71e74e8",
+      "fromSide": "top",
+      "toNode": "b726c4f28754e282",
+      "toSide": "left"
+    },
+    {
+      "id": "cf372a46e9df983e",
+      "styleAttributes": {},
+      "fromNode": "b726c4f28754e282",
+      "fromSide": "right",
+      "toNode": "4c84de063689e7c6",
+      "toSide": "left"
+    },
+    {
+      "id": "27c417fec505a299",
+      "styleAttributes": {},
+      "fromNode": "ad8c2f4b666aabfb",
+      "fromSide": "bottom",
+      "toNode": "4c84de063689e7c6",
+      "toSide": "top"
+    },
+    {
+      "id": "5a420ada55dac049",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "559c578d033a22e0",
+      "fromSide": "bottom",
+      "toNode": "b726c4f28754e282",
+      "toSide": "left"
+    },
+    {
+      "id": "cb417b7f3c633e05",
+      "styleAttributes": {},
+      "fromNode": "8c9a3a9eed9d7649",
+      "fromSide": "bottom",
+      "toNode": "453060049bc98817",
+      "toSide": "top"
+    },
+    {
+      "id": "b4816e1d467395af",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b81d53749933aa03",
+      "fromSide": "right",
+      "toNode": "8c9a3a9eed9d7649",
+      "toSide": "left"
+    },
+    {
+      "id": "07afd11cf9f49746",
+      "styleAttributes": {},
+      "fromNode": "33c0b22785800991",
+      "fromSide": "left",
+      "toNode": "453060049bc98817",
+      "toSide": "right"
+    },
+    {
+      "id": "773f9164a417c0e9",
+      "styleAttributes": {},
+      "fromNode": "4c84de063689e7c6",
+      "fromSide": "right",
+      "toNode": "8c9a3a9eed9d7649",
+      "toSide": "left"
+    },
+    {
+      "id": "e3e083dc6a549d73",
+      "styleAttributes": {},
+      "fromNode": "33c0b22785800991",
+      "fromSide": "top",
+      "toNode": "2c727bfce58917e0",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

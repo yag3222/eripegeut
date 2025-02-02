@@ -11,14 +11,17 @@
             "id": "f39a2eff5edff50d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personagens/Veronica de Luara.md",
-                "mode": "source",
-                "source": false
+                "file": "D&D/Sessão 2.canvas",
+                "viewState": {
+                  "x": -506.3896774193547,
+                  "y": -321.4774193548387,
+                  "zoom": -0.07083248410464736
+                }
               },
-              "icon": "lucide-file",
-              "title": "Veronica de Luara"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sessão 2"
             }
           }
         ]
@@ -165,26 +168,28 @@
   },
   "active": "f39a2eff5edff50d",
   "lastOpenFiles": [
-    "Personagens/Antonio moura de terra.md",
+    "D&D/Sessão 1.canvas",
+    "D&D/Sessão 2.canvas",
+    "Personagens/Anthony de murilo.md",
+    "Personagens/yule de orion.md",
+    "Personagens/youseff de kauan.md",
     "Personagens/Veronica de Luara.md",
+    "Personagens/Moon de mione.md",
+    "Personagens/Daemon de mario.md",
+    "Personagens/Antonio moura de terra.md",
+    "Pasted image 20250112170038.png",
     "Pasted image 20250112163325.png",
     "Pasted image 20250112163254.png",
     "Pasted image 20250112163234.png",
     "Personagens",
     "Untitled.md",
-    "Personagens/youseff de kauan.md",
     "Pasted image 20250112162235.png",
-    "Personagens/Moon de mione.md",
     "Pasted image 20250112160339.png",
-    "Personagens/Anthony de murilo.md",
-    "Personagens/Daemon de mario.md",
     "Pasted image 20250112154721.png",
     "Pasted image 20250112154700.png",
     "Pasted image 20250112152650.png",
-    "D&D/Sessão 1.canvas",
     "D&D/Only Magic.md",
     "Aparição.png",
-    "zumbi.png",
     "teste.md",
     "rpg/Sem título.canvas",
     "rpg",

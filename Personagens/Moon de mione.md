@@ -8,8 +8,6 @@ personalidade: não gosta da sensação de roupas, quer liberdade, que ser respe
 
 expectativa: tem uma parcela de participação, roleplay, o objetivo do mestre se concretiza.
 
-extras:
-
 gosta:
 dormir, atenção e respeito, ser elogiada.
 

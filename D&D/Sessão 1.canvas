@@ -21,6 +21,16 @@
       "label": "andar 2"
     },
     {
+      "id": "25adf338a67cc5ea",
+      "type": "file",
+      "file": "Pericias.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -835,
+      "width": 268,
+      "height": 320
+    },
+    {
       "id": "fa574fc777158234",
       "type": "text",
       "text": "No Monasterio",
@@ -39,46 +49,6 @@
       "y": -610,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "3b33ecb121444f6a",
-      "type": "text",
-      "text": "Nevoa = fumaça dos restos dos cidadão dissolvidos",
-      "styleAttributes": {},
-      "x": -1080,
-      "y": -340,
-      "width": 260,
-      "height": 140
-    },
-    {
-      "id": "5412e37c74c915c7",
-      "type": "text",
-      "text": "Essa dungeon era uma igreja de uma antiga nação já esquecida. \n- 1: a sala aonde os players vão cair ao sobreviver ao ataque do dragão.\n- 2: um longo corredor com uma aparência muito antiga.\n- 3: estatua com os dois braços faltando. os players tem que coletar os dois braços para abrir uma passagem ate um andar escondido.\n- 4: uma sala cheia de estatuas de deuses antigos. um lugar para as pessoas orarem.\n- 5: a localização do braço direito com uma balança na mão. dois cachorros zumbis protegem a mão. escrituras no chão em alguma língua antiga(O braço da deusa do equilíbrio responsável pelo balanço dos mundos).\n- 6: Aonde o braço esquerdo segurando uma esfera com desenhos de olhos  estranhos a encarando no chão.\n- 7: uma sala com vários baús vazios, em um deles possui um pergaminho com desenhos da estatua(deusa) e um texto em uma linguá antiga esquecida.",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": 339,
-      "width": 540,
-      "height": 652
-    },
-    {
-      "id": "7b675e423901359f",
-      "type": "file",
-      "file": "zumbi.png",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": -87,
-      "width": 352,
-      "height": 420
-    },
-    {
-      "id": "25adf338a67cc5ea",
-      "type": "file",
-      "file": "Pericias.png",
-      "styleAttributes": {},
-      "x": -1486,
-      "y": -835,
-      "width": 268,
-      "height": 320
     },
     {
       "id": "767991d7d01d1570",
@@ -101,6 +71,16 @@
       "height": 90
     },
     {
+      "id": "3b33ecb121444f6a",
+      "type": "text",
+      "text": "Nevoa = fumaça dos restos dos cidadão dissolvidos",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": -340,
+      "width": 260,
+      "height": 140
+    },
+    {
       "id": "3406fe3e9ee121f0",
       "type": "file",
       "file": "batalha.png",
@@ -111,43 +91,63 @@
       "height": 335
     },
     {
-      "id": "3773aa68f2cc1ded",
+      "id": "5412e37c74c915c7",
       "type": "text",
-      "text": "floresta densa",
+      "text": "Essa dungeon era uma igreja de uma antiga nação já esquecida. \n- 1: a sala aonde os players vão cair ao sobreviver ao ataque do dragão.\n- 2: um longo corredor com uma aparência muito antiga.\n- 3: estatua com os dois braços faltando. os players tem que coletar os dois braços para abrir uma passagem ate um andar escondido.\n- 4: uma sala cheia de estatuas de deuses antigos. um lugar para as pessoas orarem.\n- 5: a localização do braço direito com uma balança na mão. dois cachorros zumbis protegem a mão. escrituras no chão em alguma língua antiga(O braço da deusa do equilíbrio responsável pelo balanço dos mundos).\n- 6: Aonde o braço esquerdo segurando uma esfera com desenhos de olhos  estranhos a encarando no chão.\n- 7: uma sala com vários baús vazios, em um deles possui um pergaminho com desenhos da estatua(deusa) e um texto em uma linguá antiga esquecida.",
       "styleAttributes": {},
-      "x": -420,
-      "y": -500,
-      "width": 260,
+      "x": -1486,
+      "y": 339,
+      "width": 540,
+      "height": 652
+    },
+    {
+      "id": "7b675e423901359f",
+      "type": "file",
+      "file": "zumbi.png",
+      "styleAttributes": {},
+      "x": -1486,
+      "y": -87,
+      "width": 352,
+      "height": 420
+    },
+    {
+      "id": "e8269f9efbdda7e1",
+      "type": "text",
+      "text": "1",
+      "styleAttributes": {},
+      "x": 440,
+      "y": 675,
+      "width": 170,
+      "height": 220
+    },
+    {
+      "id": "52a06c26d572319a",
+      "type": "text",
+      "text": "andar 1.",
+      "styleAttributes": {},
+      "x": 505,
+      "y": 971,
+      "width": 160,
       "height": 60
     },
     {
-      "id": "b0f44c2c2947ec4e",
+      "id": "ba95f3617d065970",
       "type": "text",
-      "text": "usar magia de ilusão para fugir do dragão ",
+      "text": "2",
       "styleAttributes": {},
-      "x": -760,
-      "y": -515,
-      "width": 260,
-      "height": 90
+      "x": 580,
+      "y": 448,
+      "width": 60,
+      "height": 185
     },
     {
-      "id": "1844e2e4f9bf1a31",
+      "id": "c6c5de790657e257",
       "type": "text",
-      "text": "uma tropa do reino de firecrown buscando por fugitivos do ataque",
+      "text": "HP: 17",
       "styleAttributes": {},
-      "x": -420,
-      "y": -340,
-      "width": 260,
-      "height": 160
-    },
-    {
-      "id": "942b50e789c3bf23",
-      "type": "text",
-      "text": "HP: 104",
-      "styleAttributes": {},
-      "x": -5,
-      "y": -330,
-      "width": 260,
+      "x": 380,
+      "y": 481,
+      "width": 160,
       "height": 60
     },
     {
@@ -159,56 +159,6 @@
       "y": 103,
       "width": 260,
       "height": 100
-    },
-    {
-      "id": "484c2a0f5b8b3d23",
-      "type": "text",
-      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
-      "styleAttributes": {},
-      "x": -110,
-      "y": -495,
-      "width": 260,
-      "height": 140
-    },
-    {
-      "id": "b1bd27c0bd7fa6c4",
-      "type": "text",
-      "text": "2",
-      "styleAttributes": {},
-      "x": -605,
-      "y": 205,
-      "width": 70,
-      "height": 440
-    },
-    {
-      "id": "60c63e6e3c7497f7",
-      "type": "text",
-      "text": "3",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 123,
-      "width": 60,
-      "height": 65
-    },
-    {
-      "id": "6910af785c957b4a",
-      "type": "text",
-      "text": "5",
-      "styleAttributes": {},
-      "x": -510,
-      "y": 285,
-      "width": 160,
-      "height": 160
-    },
-    {
-      "id": "dde516802e878932",
-      "type": "text",
-      "text": "7",
-      "styleAttributes": {},
-      "x": -510,
-      "y": 485,
-      "width": 160,
-      "height": 160
     },
     {
       "id": "946c45d400c5fae4",
@@ -231,6 +181,16 @@
       "height": 160
     },
     {
+      "id": "705667b6d93da151",
+      "type": "text",
+      "text": "HP: 66",
+      "styleAttributes": {},
+      "x": -900,
+      "y": 740,
+      "width": 140,
+      "height": 60
+    },
+    {
       "id": "20703afd3e638bd1",
       "type": "text",
       "text": "1 ",
@@ -239,6 +199,16 @@
       "y": 665,
       "width": 120,
       "height": 100
+    },
+    {
+      "id": "0316a72b3e3ca555",
+      "type": "text",
+      "text": "HP: 66",
+      "styleAttributes": {},
+      "x": -535,
+      "y": -52,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "5ab87e61dcec677b",
@@ -251,24 +221,24 @@
       "height": 60
     },
     {
-      "id": "63626b2b85c9620b",
+      "id": "60c63e6e3c7497f7",
       "type": "text",
-      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
+      "text": "3",
       "styleAttributes": {},
-      "x": -120,
-      "y": -107,
-      "width": 270,
-      "height": 110
+      "x": -600,
+      "y": 123,
+      "width": 60,
+      "height": 65
     },
     {
-      "id": "663e42e4e54918b3",
+      "id": "b1bd27c0bd7fa6c4",
       "type": "text",
-      "text": "celestia = cidade dos nobres",
+      "text": "2",
       "styleAttributes": {},
-      "x": 355,
-      "y": -107,
-      "width": 260,
-      "height": 100
+      "x": -605,
+      "y": 205,
+      "width": 70,
+      "height": 440
     },
     {
       "id": "e23fab72e6367906",
@@ -281,54 +251,114 @@
       "height": 315
     },
     {
-      "id": "e8269f9efbdda7e1",
-      "type": "text",
-      "text": "1",
+      "id": "1fde5747fb7e5f4c",
+      "type": "file",
+      "file": "Aparição.png",
       "styleAttributes": {},
-      "x": 440,
-      "y": 675,
-      "width": 170,
-      "height": 220
+      "x": 120,
+      "y": 436,
+      "width": 235,
+      "height": 449
+    },
+    {
+      "id": "dde516802e878932",
+      "type": "text",
+      "text": "7",
+      "styleAttributes": {},
+      "x": -510,
+      "y": 485,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "6910af785c957b4a",
+      "type": "text",
+      "text": "5",
+      "styleAttributes": {},
+      "x": -510,
+      "y": 285,
+      "width": 160,
+      "height": 160
     },
     {
       "id": "30b244b4a3251a3a",
       "type": "text",
       "text": "Um fantasma de um soldado que fala em uma língua estranha",
       "styleAttributes": {},
-      "x": 95,
+      "x": 108,
       "y": 931,
       "width": 260,
       "height": 80
     },
     {
-      "id": "ba95f3617d065970",
+      "id": "663e42e4e54918b3",
       "type": "text",
-      "text": "2",
+      "text": "celestia = cidade dos nobres",
       "styleAttributes": {},
-      "x": 495,
-      "y": 445,
-      "width": 60,
-      "height": 185
+      "x": 410,
+      "y": -160,
+      "width": 260,
+      "height": 100
     },
     {
-      "id": "52a06c26d572319a",
+      "id": "b0f44c2c2947ec4e",
       "type": "text",
-      "text": "andar 1.",
+      "text": "usar magia de ilusão para fugir do dragão ",
       "styleAttributes": {},
-      "x": 505,
-      "y": 971,
-      "width": 160,
+      "x": -760,
+      "y": -515,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "3773aa68f2cc1ded",
+      "type": "text",
+      "text": "floresta densa",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -500,
+      "width": 260,
       "height": 60
     },
     {
-      "id": "1fde5747fb7e5f4c",
-      "type": "file",
-      "file": "Aparição.png",
+      "id": "1844e2e4f9bf1a31",
+      "type": "text",
+      "text": "uma tropa do reino de firecrown buscando por fugitivos do ataque",
       "styleAttributes": {},
-      "x": 120,
-      "y": 486,
-      "width": 209,
-      "height": 399
+      "x": -420,
+      "y": -340,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "484c2a0f5b8b3d23",
+      "type": "text",
+      "text": "1:yous\n2:grupo1,brit, stely\n3:moon, grupo2",
+      "styleAttributes": {},
+      "x": -110,
+      "y": -495,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "942b50e789c3bf23",
+      "type": "text",
+      "text": "HP: 36",
+      "styleAttributes": {},
+      "x": -5,
+      "y": -330,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "63626b2b85c9620b",
+      "type": "text",
+      "text": "dragão ira ataca-los, o chão ira se abrir revelando uma dungeon secreta.",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -107,
+      "width": 270,
+      "height": 110
     }
   ],
   "edges": [
@@ -501,6 +531,30 @@
       "fromSide": "bottom",
       "toNode": "30b244b4a3251a3a",
       "toSide": "top"
+    },
+    {
+      "id": "f477dfb2d143603c",
+      "styleAttributes": {},
+      "fromNode": "705667b6d93da151",
+      "fromSide": "top",
+      "toNode": "415f02b233bb40d5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "61041721d4c1357d",
+      "styleAttributes": {},
+      "fromNode": "0316a72b3e3ca555",
+      "fromSide": "bottom",
+      "toNode": "6910af785c957b4a",
+      "toSide": "top"
+    },
+    {
+      "id": "1784d90bec46ee46",
+      "styleAttributes": {},
+      "fromNode": "1fde5747fb7e5f4c",
+      "fromSide": "right",
+      "toNode": "c6c5de790657e257",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
